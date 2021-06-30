@@ -16,3 +16,4 @@ Application that allow user to add a favorite movie with comment and ranking opt
 
 JavaScript -  HTML - CSS
 
+![FAV](https://user-images.githubusercontent.com/66380080/123962253-89d7eb80-d9b1-11eb-9b17-296ddb66c566.png)
